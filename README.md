@@ -21,8 +21,18 @@
   - `sudo npm install -g ganache`
   
 ## Run
+
 - `truffle init`
-- `truffle test`
+
+- Unit Test
+  - `truffle test`
+  
+- Local Testnet
+  - `ganache` # On the first terminal
+  - `truffle migrate --network development` # On the second terminal
+  
+- Public Testnet
+  - TODO (need to obtain fake ETH...)
 
 # hoscdev
 Code for Hands on Smart Contract Development http://shop.oreilly.com/product/0636920216018.do
