@@ -15,6 +15,9 @@
   - `sudo apt install npm`
   - `sudo npm install -g npm@8.15.0`
   - `sudo npm install -g truffle`
+ 
+- More Deps
+  - `npm install openzeppelin-solidity`
 
 # hoscdev
 Code for Hands on Smart Contract Development http://shop.oreilly.com/product/0636920216018.do
