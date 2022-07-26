@@ -22,7 +22,9 @@
   
 ## Run
 
-- `truffle init`
+- Prepare
+  - `cd hpdic`
+  - `truffle init`
 
 - Unit Test
   - `truffle test`
