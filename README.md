@@ -18,6 +18,10 @@
  
 - More Deps
   - `npm install openzeppelin-solidity`
+  
+## Run
+- `truffle init`
+- `truffle test`
 
 # hoscdev
 Code for Hands on Smart Contract Development http://shop.oreilly.com/product/0636920216018.do
