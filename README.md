@@ -18,6 +18,7 @@
  
 - More Deps
   - `npm install openzeppelin-solidity`
+  - `sudo npm install -g ganache`
   
 ## Run
 - `truffle init`
